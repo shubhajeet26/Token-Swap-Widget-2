@@ -96,7 +96,8 @@ RPC_URL=your_rpc_url
 
 ## 📸 Screenshots of the UI
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8e17ee7c-76e0-4e6c-a977-a09bc1c56162" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/63c87977-cb24-4355-809b-38ecfe730167" />
+
 
 
 
