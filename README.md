@@ -5,7 +5,11 @@ A sleek and customizable Token Swap Widget that allows users to seamlessly swap 
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6a39970c-b4b0-4e23-9772-176e4b75a894" />
 
-Contract Link: https://lab.stellar.org/smart-contracts/contract-explorer?$=network$id=testnet&label=Testnet&horizonUrl=https:////horizon-testnet.stellar.org&rpcUrl=https:////soroban-testnet.stellar.org&passphrase=Test%20SDF%20Network%20/;%20September%202015;&smartContracts$explorer$contractId=CD4WOKVETURYJHLN63MM2SHIGYFUBLF3DPTTLEDTWTENMSCFT7GPSNM5;;
+📌 Deployed Contract 
+
+Network : Stellar Testnet
+Contract Address : CD4WOKVETURYJHLN63MM2SHIGYFUBLF3DPTTLEDTWTENMSCFT7GPSNM5
+Contract Explorar : https://lab.stellar.org/smart-contracts/contract-explorer?$=network$id=testnet&label=Testnet&horizonUrl=https:////horizon-testnet.stellar.org&rpcUrl=https:////soroban-testnet.stellar.org&passphrase=Test%20SDF%20Network%20/;%20September%202015;&smartContracts$explorer$contractId=CD4WOKVETURYJHLN63MM2SHIGYFUBLF3DPTTLEDTWTENMSCFT7GPSNM5;;
 
 
 📌 Overview
@@ -89,9 +93,10 @@ Create a .env file and add:
 API_KEY=your_api_key_here
 RPC_URL=your_rpc_url
 
-📸 Screenshots
+📸 Screenshots of the UI
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cc42e9f5-aba8-4051-afc5-e13b22024755" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8e17ee7c-76e0-4e6c-a977-a09bc1c56162" />
+
 
 
 🚀 Future Improvements
