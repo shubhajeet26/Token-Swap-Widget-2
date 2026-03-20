@@ -50,6 +50,7 @@ Styling: CSS / Tailwind / Styled Components
 
 APIs: Token price / swap routing APIs
 
+
 ## 📂 Project Structure
 Token-Swap-Widget/
 │── public/             # Static assets
