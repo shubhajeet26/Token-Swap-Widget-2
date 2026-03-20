@@ -1,11 +1,12 @@
 🚀 Token Swap Widget
 
+A sleek and customizable Token Swap Widget that allows users to seamlessly swap cryptocurrencies directly within a web application. This project provides a modern UI and integrates Web3 functionality to enable fast, secure, and user-friendly token swaps.
+
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6a39970c-b4b0-4e23-9772-176e4b75a894" />
 
 Contract Link: https://lab.stellar.org/smart-contracts/contract-explorer?$=network$id=testnet&label=Testnet&horizonUrl=https:////horizon-testnet.stellar.org&rpcUrl=https:////soroban-testnet.stellar.org&passphrase=Test%20SDF%20Network%20/;%20September%202015;&smartContracts$explorer$contractId=CD4WOKVETURYJHLN63MM2SHIGYFUBLF3DPTTLEDTWTENMSCFT7GPSNM5;;
 
-
-A sleek and customizable Token Swap Widget that allows users to seamlessly swap cryptocurrencies directly within a web application. This project provides a modern UI and integrates Web3 functionality to enable fast, secure, and user-friendly token swaps.
 
 📌 Overview
 
