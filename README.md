@@ -1,18 +1,18 @@
-🚀## Token Swap Widget
+## 🚀 Token Swap Widget
 
 A sleek and customizable Token Swap Widget that allows users to seamlessly swap cryptocurrencies directly within a web application. This project provides a modern UI and integrates Web3 functionality to enable fast, secure, and user-friendly token swaps.
 
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6a39970c-b4b0-4e23-9772-176e4b75a894" />
 
-📌## Deployed Contract 
+## 📌 Deployed Contract 
 
 Network : Stellar Testnet
 Contract Address : CD4WOKVETURYJHLN63MM2SHIGYFUBLF3DPTTLEDTWTENMSCFT7GPSNM5
 Contract Explorar : https://lab.stellar.org/smart-contracts/contract-explorer?$=network$id=testnet&label=Testnet&horizonUrl=https:////horizon-testnet.stellar.org&rpcUrl=https:////soroban-testnet.stellar.org&passphrase=Test%20SDF%20Network%20/;%20September%202015;&smartContracts$explorer$contractId=CD4WOKVETURYJHLN63MM2SHIGYFUBLF3DPTTLEDTWTENMSCFT7GPSNM5;;
 
 
-📌## Overview
+## 📌 Overview
 
 The Token Swap Widget is a reusable frontend component designed for decentralized applications (dApps). It enables users to:
 
@@ -26,7 +26,7 @@ Experience a smooth and interactive UI
 
 Token swap widgets are commonly used in DeFi apps to embed trading functionality without requiring users to leave the platform
 
-✨## Features
+## ✨ Features
 
 🔄 Token Swapping – Swap between supported tokens
 
@@ -40,7 +40,7 @@ Token swap widgets are commonly used in DeFi apps to embed trading functionality
 
 🌐 Decentralized – Built for Web3 environments
 
-🛠️## Tech Stack
+## 🛠️ Tech Stack
 
 Frontend: React / Next.js
 
@@ -50,7 +50,7 @@ Styling: CSS / Tailwind / Styled Components
 
 APIs: Token price / swap routing APIs
 
-📂## Project Structure
+## 📂 Project Structure
 Token-Swap-Widget/
 │── public/             # Static assets
 │── src/
@@ -61,7 +61,7 @@ Token-Swap-Widget/
 │── package.json
 │── README.md
 
-⚙️## Installation & Setup
+## ⚙️ Installation & Setup
 
 1️⃣ Clone the repository
 git clone https://github.com/shubhajeet26/Token-Swap-Widget-2.git
@@ -76,7 +76,7 @@ yarn install
 
 3️⃣ Run the development server
 npm run dev
-🔗## Usage
+## 🔗 Usage
 
 Connect your crypto wallet
 
@@ -86,20 +86,20 @@ Enter the amount
 
 Confirm the swap
 
-🔐## Environment Variables
+## 🔐 Environment Variables
 
 Create a .env file and add:
 
 API_KEY=your_api_key_here
 RPC_URL=your_rpc_url
 
-##📸## Screenshots of the UI
+## 📸 Screenshots of the UI
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8e17ee7c-76e0-4e6c-a977-a09bc1c56162" />
 
 
 
-🚀## Future Improvements
+## 🚀 Future Improvements
 
 🌉 Cross-chain swaps
 
@@ -109,7 +109,7 @@ RPC_URL=your_rpc_url
 
 📱 Mobile-first UI improvements
 
-🤝## Contributing
+## 🤝 Contributing
 
 Contributions are welcome!
 
@@ -121,11 +121,11 @@ Make your changes
 
 Submit a Pull Request
 
-📄## License
+## 📄 License
 
 This project is licensed under the MIT License.
 
-🙌## Acknowledgements
+## 🙌 Acknowledgements
 
 Inspired by popular DeFi swap widgets like Uniswap & 1inch
 
