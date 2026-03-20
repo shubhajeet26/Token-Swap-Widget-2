@@ -16,15 +16,15 @@ A sleek and customizable Token Swap Widget that allows users to seamlessly swap 
 
 The Token Swap Widget is a reusable frontend component designed for decentralized applications (dApps). It enables users to:
 
-Swap tokens across supported blockchain networks
+- Swap tokens across supported blockchain networks
 
-View real-time token prices and balances
+- View real-time token prices and balances
 
-Connect wallets and execute transactions
+- Connect wallets and execute transactions
 
-Experience a smooth and interactive UI
+- Experience a smooth and interactive UI
 
-Token swap widgets are commonly used in DeFi apps to embed trading functionality without requiring users to leave the platform
+- Token swap widgets are commonly used in DeFi apps to embed trading functionality without requiring users to leave the platform
 
 ## ✨ Features
 
@@ -42,13 +42,13 @@ Token swap widgets are commonly used in DeFi apps to embed trading functionality
 
 ## 🛠️ Tech Stack
 
-Frontend: React / Next.js
+- Frontend: React / Next.js
 
-Blockchain Interaction: Web3 / Ethers / Stellar SDK (based on your setup)
+- Blockchain Interaction: Web3 / Ethers / Stellar SDK (based on your setup)
 
-Styling: CSS / Tailwind / Styled Components
+- Styling: CSS / Tailwind / Styled Components
 
-APIs: Token price / swap routing APIs
+- APIs: Token price / swap routing APIs
 
 
 ## 📂 Project Structure
@@ -79,13 +79,13 @@ yarn install
 npm run dev
 ## 🔗 Usage
 
-Connect your crypto wallet
+1. Connect your crypto wallet
 
-Select input and output tokens
+2. Select input and output tokens
 
-Enter the amount
+3. Enter the amount
 
-Confirm the swap
+4. Confirm the swap
 
 ## 🔐 Environment Variables
 
