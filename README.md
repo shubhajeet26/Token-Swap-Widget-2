@@ -114,13 +114,13 @@ RPC_URL=your_rpc_url
 
 Contributions are welcome!
 
-Fork the repo
+- Fork the repo
 
-Create a new branch
+- Create a new branch
 
-Make your changes
+- Make your changes
 
-Submit a Pull Request
+- Submit a Pull Request
 
 ## 📄 License
 
@@ -132,6 +132,6 @@ Inspired by popular DeFi swap widgets like Uniswap & 1inch
 
 Open-source Web3 ecosystem
 
-📬 Contact
+## 📬 Contact
 
 Shubhajeet Saha
