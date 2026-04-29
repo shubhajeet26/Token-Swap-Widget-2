@@ -51,7 +51,8 @@ npm install
 npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result. The application will auto-update as you edit the files in `client/app`.
+## 📌 Live URL link of Website
+- Website: https://token-swap-widget.vercel.app/
 
 ## Technologies Used
 
